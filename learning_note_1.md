@@ -32,6 +32,8 @@ print(a.view(1,-1))
 # tensor([[0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000]])
 ```
 
+*持续更新中*
+
 ***
 **参考**  
 [Markdown语法大全（超级版）](https://www.jianshu.com/p/ebe52d2d468f "Markdown语法大全（超级版）")
