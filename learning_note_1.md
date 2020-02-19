@@ -18,7 +18,7 @@
 
 >**2.损失函数**  
 
-pytorch中的`y.view()`该怎么用？  
+*pytorch中的`y.view()`该怎么用？*  
 `view()`函数作用是将一个多行的Tensor,拼接成一行：  
 ```
 import torch
